@@ -1,6 +1,12 @@
 multiCameraEnable=TRUE
-logInfoMask=0x10098
-overrideLogLevels=0x1F
+logInfoMask=0x1
+overrideLogLevels=0x1
+logWarningMask=0
+logConfigMask=0
+systemLogEnable=TRUE
+enableAsciiLogging=FALSE
+logRequestMapping=FALSE
+traceGroupsEnable=0
 #pdafHWEnable=TRUE
 oisMaxWaitingTime=70
 enableOISOptimization=TRUE
